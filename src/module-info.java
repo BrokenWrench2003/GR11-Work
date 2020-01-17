@@ -1,3 +1,2 @@
 module week1 {
-	
 }
