@@ -11,6 +11,7 @@ public class C1_2Q1 {
 		System.out.println(lettersInName);
 		System.out.println(name);
 		System.out.println(firstLetter);
+		sc.close();
 	}
 
 }
